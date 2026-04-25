@@ -1,0 +1,14 @@
+C:\Users\Sihle Kayise\Desktop\SmartStudentProfileProcessor.Console\bin\Debug\net8.0\SmartStudentProfileProcessor.Console.exe
+C:\Users\Sihle Kayise\Desktop\SmartStudentProfileProcessor.Console\bin\Debug\net8.0\SmartStudentProfileProcessor.Console.deps.json
+C:\Users\Sihle Kayise\Desktop\SmartStudentProfileProcessor.Console\bin\Debug\net8.0\SmartStudentProfileProcessor.Console.runtimeconfig.json
+C:\Users\Sihle Kayise\Desktop\SmartStudentProfileProcessor.Console\bin\Debug\net8.0\SmartStudentProfileProcessor.Console.dll
+C:\Users\Sihle Kayise\Desktop\SmartStudentProfileProcessor.Console\bin\Debug\net8.0\SmartStudentProfileProcessor.Console.pdb
+C:\Users\Sihle Kayise\Desktop\SmartStudentProfileProcessor.Console\obj\Debug\net8.0\SmartStudentProfileProcessor.Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sihle Kayise\Desktop\SmartStudentProfileProcessor.Console\obj\Debug\net8.0\SmartStudentProfileProcessor.Console.AssemblyInfoInputs.cache
+C:\Users\Sihle Kayise\Desktop\SmartStudentProfileProcessor.Console\obj\Debug\net8.0\SmartStudentProfileProcessor.Console.AssemblyInfo.cs
+C:\Users\Sihle Kayise\Desktop\SmartStudentProfileProcessor.Console\obj\Debug\net8.0\SmartStudentProfileProcessor.Console.csproj.CoreCompileInputs.cache
+C:\Users\Sihle Kayise\Desktop\SmartStudentProfileProcessor.Console\obj\Debug\net8.0\SmartStudentProfileProcessor.Console.dll
+C:\Users\Sihle Kayise\Desktop\SmartStudentProfileProcessor.Console\obj\Debug\net8.0\refint\SmartStudentProfileProcessor.Console.dll
+C:\Users\Sihle Kayise\Desktop\SmartStudentProfileProcessor.Console\obj\Debug\net8.0\SmartStudentProfileProcessor.Console.pdb
+C:\Users\Sihle Kayise\Desktop\SmartStudentProfileProcessor.Console\obj\Debug\net8.0\SmartStudentProfileProcessor.Console.genruntimeconfig.cache
+C:\Users\Sihle Kayise\Desktop\SmartStudentProfileProcessor.Console\obj\Debug\net8.0\ref\SmartStudentProfileProcessor.Console.dll

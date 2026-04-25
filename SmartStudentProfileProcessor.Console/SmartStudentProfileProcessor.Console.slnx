@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../SmartStudentProfileProcessor.WinForms/SmartStudentProfileProcessor.WinForms.csproj" Id="2663f2c9-c688-40b1-b4f2-e63076304de9" />
+  <Project Path="SmartStudentProfileProcessor.Console.csproj" />
+</Solution>

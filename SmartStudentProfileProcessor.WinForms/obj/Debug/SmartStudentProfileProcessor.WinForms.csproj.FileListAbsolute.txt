@@ -1,0 +1,10 @@
+C:\Users\Sihle Kayise\Desktop\SmartStudentProfileProcessor.WinForms\bin\Debug\SmartStudentProfileProcessor.WinForms.exe.config
+C:\Users\Sihle Kayise\Desktop\SmartStudentProfileProcessor.WinForms\bin\Debug\SmartStudentProfileProcessor.WinForms.exe
+C:\Users\Sihle Kayise\Desktop\SmartStudentProfileProcessor.WinForms\bin\Debug\SmartStudentProfileProcessor.WinForms.pdb
+C:\Users\Sihle Kayise\Desktop\SmartStudentProfileProcessor.WinForms\obj\Debug\SmartStudentProfileProcessor.WinForms.csproj.AssemblyReference.cache
+C:\Users\Sihle Kayise\Desktop\SmartStudentProfileProcessor.WinForms\obj\Debug\SmartStudentProfileProcessor.WinForms.Form1.resources
+C:\Users\Sihle Kayise\Desktop\SmartStudentProfileProcessor.WinForms\obj\Debug\SmartStudentProfileProcessor.WinForms.Properties.Resources.resources
+C:\Users\Sihle Kayise\Desktop\SmartStudentProfileProcessor.WinForms\obj\Debug\SmartStudentProfileProcessor.WinForms.csproj.GenerateResource.cache
+C:\Users\Sihle Kayise\Desktop\SmartStudentProfileProcessor.WinForms\obj\Debug\SmartStudentProfileProcessor.WinForms.csproj.CoreCompileInputs.cache
+C:\Users\Sihle Kayise\Desktop\SmartStudentProfileProcessor.WinForms\obj\Debug\SmartStudentProfileProcessor.WinForms.exe
+C:\Users\Sihle Kayise\Desktop\SmartStudentProfileProcessor.WinForms\obj\Debug\SmartStudentProfileProcessor.WinForms.pdb
